@@ -12,3 +12,5 @@ The way kmeans algorithm works is as follows:<br><br>
 4.Compute the sum of the squared distance between data points and all centroids.<br>
 5.Assign each data point to the closest cluster (centroid).<br>
 6.Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.<br>
+
+![cluster](misc/1_1VPCjrIGEZTzy_Y9i50SzQ.png)
